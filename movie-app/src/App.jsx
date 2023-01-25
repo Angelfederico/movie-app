@@ -9,8 +9,9 @@ function App() {
     <>
 
       <h1>Movies App</h1>
-      <>
-        )
-}
+      <p>Este es una aplicacion de que trae la des</p>
+    </default>
+       )
+        };
 
-        export default App
+        export default App;
