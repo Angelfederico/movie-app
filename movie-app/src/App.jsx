@@ -9,7 +9,7 @@ function App() {
     <>
 
       <h1>Movies App</h1>
-      <p>Este es una aplicacion que trae la descripcion de peliculas de una api</p>
+
     </>
   )
 };
